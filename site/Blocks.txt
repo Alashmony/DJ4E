@@ -1,0 +1,20 @@
+
+/* This is a partial blocks.css, you need to add more rules
+   to this file to complete the assignment.  Do not add any CSS
+   styling to the original index.htm / start.htm */
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Here is one of many  CSS rules you will need... */
+#one {
+
+}
+
+#one {
+    padding = "5 px",
+    margin = "5 px".
+    border-size = "5 px"
+    border-color = "red"
+}
